@@ -1,3 +1,30 @@
 * {
     margin: 0;
 }
+
+h1 {
+     text-align: center;
+}
+
+.container {
+    margin-top: 150px;
+    position: absolute;
+    left: 50%;
+    translate: -50%;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 50px;
+    background: rgb(139, 133, 196);
+}
+
+.button {
+    border: 2px solid black;
+    width:max-content;
+    position: absolute;
+    left: 50%;
+    translate: -50%;
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 5px;
+    background: rgb(167, 223, 223);
+}
